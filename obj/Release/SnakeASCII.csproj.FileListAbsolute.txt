@@ -1,0 +1,7 @@
+C:\Users\somet\Desktop\C# konzolne aplikacije\SnakeASCII\bin\Release\SnakeASCII.exe.config
+C:\Users\somet\Desktop\C# konzolne aplikacije\SnakeASCII\bin\Release\SnakeASCII.exe
+C:\Users\somet\Desktop\C# konzolne aplikacije\SnakeASCII\bin\Release\SnakeASCII.pdb
+C:\Users\somet\Desktop\C# konzolne aplikacije\SnakeASCII\obj\Release\SnakeASCII.csproj.AssemblyReference.cache
+C:\Users\somet\Desktop\C# konzolne aplikacije\SnakeASCII\obj\Release\SnakeASCII.csproj.CoreCompileInputs.cache
+C:\Users\somet\Desktop\C# konzolne aplikacije\SnakeASCII\obj\Release\SnakeASCII.exe
+C:\Users\somet\Desktop\C# konzolne aplikacije\SnakeASCII\obj\Release\SnakeASCII.pdb
